@@ -1,0 +1,12 @@
+Package: com.pixelomer.cyiometrics
+Name: Cyiometrics
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Basic Cydia protection
+  This is a basic tweak that requires you to enter your password or use TouchID/FaceID before performing operations.
+  Can still be bypassed with safemode and by disabling the tweak.
+  Requires iOS 11 or higher.
+Maintainer: PixelOmer
+Author: PixelOmer
+Section: Tweaks
